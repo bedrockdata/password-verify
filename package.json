@@ -1,0 +1,25 @@
+{
+  "name": "password-verify",
+  "version": "0.0.1",
+  "description": "Simple password hash/verify library with no 3rd party libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedrockdata/password-verify.git"
+  },
+  "keywords": [
+    "simple password verification"
+  ],
+  "author": "Bedrock Data",
+  "bugs": {
+    "url": "https://github.com/bedrockdata/password-verify/issues"
+  },
+  "homepage": "https://github.com/bedrockdata/password-verify#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
