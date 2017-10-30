@@ -2,7 +2,7 @@
 
 ## Summary
 
-A light-weight salty password generator and verifier that does not use 3rd party libraries that uses only Javascript.
+A light-weight salty password generator and verifier that does not use 3rd party libraries and is written entirely with Javascript.
 
 ## Testing
 
